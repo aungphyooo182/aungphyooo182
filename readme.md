@@ -26,11 +26,11 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :telescope: I’m working as a Front-End Developer and contributing to frontend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring New Excitement.
 
 - :zap: In my free time, I watch youtube free course and code.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aung-phyo-oo-527115154/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aung-phyo-oo-527115154/)
 
 ---
 
